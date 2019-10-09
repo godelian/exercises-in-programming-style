@@ -5,7 +5,12 @@ Comprehensive collection of well-known, and not so well-known, programming
 styles using a simple computational task, term frequency. All programs run 
 with the following command line:
 
-$ python tf-NN.py ../pride-and-prejudice.txt
+```bash
+python tf-NN.py ../pride-and-prejudice.txt
+```
+
+NOTE: the code in the master branch is written for Python 3. If you are looking
+for a version for Python 2.7, check out the 2.7 branch or the v1.0 release.
 
 Explanations and historical context for all these styles can be found in the
 companion book [Exercises in Programming Style](http://www.amazon.com/Exercises-Programming-Style-Cristina-Videira/dp/1482227371/).
